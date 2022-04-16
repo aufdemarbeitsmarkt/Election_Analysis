@@ -21,7 +21,6 @@ candidate_votes = {}
 county_options = []
 county_votes = {}
 
-
 # Track the winning candidate, vote count and percentage
 winning_candidate = ''
 winning_count = 0
