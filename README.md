@@ -49,7 +49,7 @@ By providing a small number of data points, this same analysis can be done for a
 
 ### Suggestions for further modifications
 1. with relatively simple changes to the existing script, other data points could be included and analyzed with ease, e.g. 'Political Party', 'Candidate Education Level', 'Years of Political Experience', etc. 
-2. a refactor, might be useful in the longrun; cor functionality could be turned into functions, which would greatly reduce the amount of repeated code.
+2. a refactor might be useful in the long-run; core functionality could be placed into functions, which would greatly reduce the amount of repeated code.
 
 re: suggestion #2, please see this proof-of-concept code below. This could allow the user to quickly analyze any column in a given input file. The user might also wish to do conduct an analysis on all columns -- this would allow for that flexibility without needing to write unique loops for each distinct column.
 
